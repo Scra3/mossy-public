@@ -1,15 +1,14 @@
 # Mossy — versions
 
-Mossy est un compagnon de bureau pour macOS : il vit en bas de l'écran, il a soif
-après un moment d'activité continue, et il propose une pause courte. Il rappelle,
-il ne bloque jamais.
+Mossy is a macOS desktop companion: it lives at the bottom of your screen, gets thirsty after a
+stretch of continuous activity, and offers a short break. It reminds, it never blocks.
 
-**Téléchargement : [heymossy.com](https://heymossy.com/)**
+**Download: [heymossy.com](https://heymossy.com/)**
 
-Ce dépôt ne contient pas le code — seulement `version.json`, que l'app interroge
-pour savoir si elle est périmée. Le paquet, lui, est servi par le site.
+This repository holds no code — only `version.json`, which the app polls to learn whether it is
+out of date. The package itself is served by the site.
 
-Aucun compte, aucune inscription. Ce qui quitte votre Mac, et rien d'autre :
-votre programme et vos retours partent à l'IA le temps d'écrire l'exercice, et un
-signe de vie anonyme une fois par jour pour compter les utilisateurs — celui-là se
-décoche dans les réglages. Votre historique reste sur votre Mac.
+No account, no sign-up. What leaves your Mac, and nothing else: your programme and your last few
+notes go to the AI for as long as it takes to write the exercise, plus one anonymous ping a day
+so we can count users — that one can be unchecked in the settings. Your history stays on your
+Mac.
