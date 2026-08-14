@@ -1,5 +1,5 @@
 {
-  "version": "0.2.2",
-  "note": "La fenêtre d'installation standard : glisse Mossy dans Applications, rien à lire.",
+  "version": "0.2.4",
+  "note": "Après un glisser-déposer, Mossy propose de se relancer : un clic, et il revient à jour.",
   "url": "https://heymossy.com/"
 }
