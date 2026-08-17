@@ -1,5 +1,5 @@
 {
-  "version": "0.2.4",
-  "note": "Après un glisser-déposer, Mossy propose de se relancer : un clic, et il revient à jour.",
+  "version": "0.2.5",
+  "note": "Mossy compte tes pauses, et changer d'exercice ne rallonge plus la pause.",
   "url": "https://heymossy.com/"
 }
