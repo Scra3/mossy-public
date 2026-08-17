@@ -1,5 +1,5 @@
 {
-  "version": "0.2.5",
-  "note": "Mossy compte tes pauses, et changer d'exercice ne rallonge plus la pause.",
+  "version": "0.2.6",
+  "note": "Un gros chrono qu'on lit debout, et des séries que l'IA chronomètre elle-même.",
   "url": "https://heymossy.com/"
 }
