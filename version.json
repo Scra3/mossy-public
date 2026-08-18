@@ -1,5 +1,5 @@
 {
-  "version": "0.2.7",
-  "note": "Le temps de lire l'exercice avant que le chrono d'effort démarre.",
+  "version": "0.2.8",
+  "note": "Il se masque le temps d'un partage d'écran, et il revient à ta prochaine pause.",
   "url": "https://heymossy.com/"
 }
