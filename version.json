@@ -1,5 +1,5 @@
 {
-  "version": "0.2.6",
-  "note": "Un gros chrono qu'on lit debout, et des séries que l'IA chronomètre elle-même.",
+  "version": "0.2.7",
+  "note": "Le temps de lire l'exercice avant que le chrono d'effort démarre.",
   "url": "https://heymossy.com/"
 }
