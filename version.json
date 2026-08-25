@@ -1,5 +1,5 @@
 {
-  "version": "0.2.8",
-  "note": "Il se masque le temps d'un partage d'écran, et il revient à ta prochaine pause.",
+  "version": "0.2.9",
+  "note": "Je sonne pendant l'exercice : tu sais quand relâcher et quand reprendre sans regarder le chrono.",
   "url": "https://heymossy.com/"
 }
