@@ -1,5 +1,5 @@
 {
-  "version": "0.2.10",
-  "note": "Je reviens tout seul quand ton Mac démarre — décochable dans mes réglages. · I come back on my own when your Mac starts up — you can untick it in my settings.",
+  "version": "0.2.11",
+  "note": "Le numéro de version part maintenant avec chaque demande de pause, pour savoir si les mises à jour arrivent. Rien d'autre ne change.",
   "url": "https://heymossy.com/"
 }
