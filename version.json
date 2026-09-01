@@ -1,5 +1,5 @@
 {
-  "version": "0.2.11",
-  "note": "Le numéro de version part maintenant avec chaque demande de pause, pour savoir si les mises à jour arrivent. Rien d'autre ne change.",
+  "version": "0.2.12",
+  "note": "Mossy se colle où tu veux, même à moitié dehors. Sa bulle s'adapte au bord de l'écran, et un clic sur son icône du Dock le ramène si tu l'as perdu.",
   "url": "https://heymossy.com/"
 }
