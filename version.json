@@ -1,5 +1,6 @@
 {
   "version": "0.2.12",
-  "note": "Mossy se colle où tu veux, même à moitié dehors. Sa bulle s'adapte au bord de l'écran, et un clic sur son icône du Dock le ramène si tu l'as perdu.",
+  "note": "Mossy now sticks anywhere you drop him, even half off the screen. His bubble adapts to the edge, and clicking his Dock icon brings him back if you lose him.",
+  "note_fr": "Mossy se colle où tu veux, même à moitié dehors. Sa bulle s'adapte au bord de l'écran, et un clic sur son icône du Dock le ramène si tu l'as perdu.",
   "url": "https://heymossy.com/"
 }
