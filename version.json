@@ -1,6 +1,6 @@
 {
   "version": "0.2.15",
-  "note": "Giving a cutting is one gesture now: the link line copies, and I tell you it's yours to send. Closing my hatching still plants me. And I'm green again in the gift window.",
-  "note_fr": "Offrir une bouture tient en un geste : la ligne du lien copie, et je te dis que c'est toi qui l'envoies. Fermer mon éclosion me plante quand même. Et je suis redevenu vert dans la fenêtre du cadeau.",
+  "note": "New: you can offer me to someone, with a note inside. Right click me, then Offer a cutting.",
+  "note_fr": "Nouveau : tu peux m'offrir à quelqu'un, avec un mot dedans. Clic droit sur moi, puis « Offrir une bouture… ».",
   "url": "https://heymossy.com/"
 }
