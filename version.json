@@ -1,6 +1,6 @@
 {
-  "version": "0.2.15",
-  "note": "New: you can offer me to someone, with a note inside. Right click me, then Offer a cutting.",
-  "note_fr": "Nouveau : tu peux m'offrir à quelqu'un, avec un mot dedans. Clic droit sur moi, puis « Offrir une bouture… ».",
+  "version": "0.2.16",
+  "note": "The mushroom won the vote. It's in Settings, next to the moss and the cactus. And the plant breathes smoothly now, no more little jumps.",
+  "note_fr": "Le champignon a gagné le vote. Il est dans les Réglages, à côté de la mousse et du cactus. Et la plante respire sans à-coups, plus de petits sauts.",
   "url": "https://heymossy.com/"
 }
