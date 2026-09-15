@@ -1,6 +1,6 @@
 {
-  "version": "0.2.17",
-  "note": "You can now choose how long a break lasts, from 1 to 5 minutes. And the break program is simpler: tick what bothers you, or write your own request.",
-  "note_fr": "Tu peux maintenant choisir la durée d'une pause, de 1 à 5 minutes. Et le programme des pauses est plus simple : tu coches ce qui te gêne, ou tu écris ta propre demande.",
+  "version": "0.2.18",
+  "note": "Pick the language of your breaks in the settings: fifteen of them, or just follow your Mac.",
+  "note_fr": "La langue des pauses se choisit dans les réglages : quinze, ou celle de ton Mac.",
   "url": "https://heymossy.com/"
 }
