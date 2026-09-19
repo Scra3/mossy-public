@@ -1,6 +1,6 @@
 {
-  "version": "0.2.18",
-  "note": "Pick the language of your breaks in the settings: fifteen of them, or just follow your Mac.",
-  "note_fr": "La langue des pauses se choisit dans les réglages : quinze, ou celle de ton Mac.",
+  "version": "0.2.19",
+  "note": "Updates install themselves the moment it is safe: no break running, and Mossy not hidden.",
+  "note_fr": "Les mises à jour s'installent dès que c'est sans risque : pas de pause en cours, et Mossy pas masqué.",
   "url": "https://heymossy.com/"
 }
